@@ -31,6 +31,7 @@ public class WordCountWithObject {
     public static class WordAndCount {
 
         private String Word;
+
         private Integer Count;
 
         public WordAndCount(String word, Integer count) {
